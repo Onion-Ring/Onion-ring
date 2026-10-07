@@ -4,7 +4,7 @@
 
 ## ❔ Who am I?   
 
-Full-stack developer with over 2 years of professional experience, always eager to learn new technologies and methodologies while growing both personally and professionally.
+Full-stack developer with over three years of professional experience, always eager to learn new technologies and methodologies while growing both personally and professionally.
 
 I enjoy working on personal projects to sharpen my programming skills and explore new concepts. Beyond just coding, I genuinely appreciate the entire development process — from designing the interface and selecting the right tech stack to brainstorming features and bringing ideas to life.
 
